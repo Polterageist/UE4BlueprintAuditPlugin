@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Blueprints Audit Plugin",
+	"Description": "Adds an \"Blueprints Audit\" window to editor, which allows manage of your blueprints state (e.g. dirty, with errors and so on), compile them, load, save, nativize and so on.",
+	"Category": "Blueprints",
+	"CreatedBy": "Rybalka Alexander",
+	"CreatedByURL": "https://github.com/Polterageist",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintsAuditPlugin",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "Default"
+		}
+	]
+}
