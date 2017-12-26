@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright (c) 2017 Aleksandr Rybalka. Protected by MIT License. See LICENSE file for details.
 
 #include "BlueprintsAuditPlugin.h"
 
